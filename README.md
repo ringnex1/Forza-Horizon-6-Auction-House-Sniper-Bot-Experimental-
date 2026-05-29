@@ -6,7 +6,7 @@ Instructions:
 4. select the car that you want to snipe and go into the auction list then go back one page.
 5. Hover your curser over the seach auction button button after you've set the car you Chose
 6. Press F6 to start the script
-7. To stop the script press "~" (the button under your escape key)
+7. To stop the script press the tilde key (the squigly button under your escape key)
 Notes:
 Sometimes the script will glitch out if the car shows up on the auction house and is already sold, if the script starts failing and goes into pages its not supposed to close the script with "~" and restart the script
 When you stop the script you have to reopen the file every time
